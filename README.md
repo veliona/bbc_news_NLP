@@ -1,1 +1,1 @@
-# bbc_news_analysis
+# BBC News analysis (Natural Language Processing)
